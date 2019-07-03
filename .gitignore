@@ -57,10 +57,7 @@ $RECYCLE.BIN/
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
 # .idea/modules.xml
-# .idea/*.iml
 # .idea/modules
-# *.iml
-# *.ipr
 
 # CMake
 cmake-build-*/
@@ -68,8 +65,6 @@ cmake-build-*/
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
-# File-based project format
-*.iws
 
 # IntelliJ
 out/
@@ -100,7 +95,6 @@ fabric.properties
 
 # IntelliJ project files
 .idea
-*.iml
 out
 gen
 ### Java template
